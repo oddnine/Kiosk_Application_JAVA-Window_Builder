@@ -1,5 +1,5 @@
 # Kiosk_Application_JAVA-Window_Builder-
-❗본 프로젝트는 2학기 학과 개인 프로젝트입니다.
+❗본 프로젝트는 2학년 때의 학과 개인 프로젝트입니다.
 
 사용 방법)
 1. 이클립스에서 Window Builder를 설치해줍니다.
