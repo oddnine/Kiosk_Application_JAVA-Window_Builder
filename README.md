@@ -1,6 +1,6 @@
-# Kiosk_Application_JAVA-Window_Builder-
+# Kiosk_Application_JAVA-Window_Builder
 ❗본 프로젝트는 2학년 때의 학과 개인 프로젝트입니다.<br/>
-(하나의 클래스에 모든 코드가 들어가 있어 엉망이지만 도움이 될 수 있을지 몰라 올립니다.😂)
+(하나의 클래스에 모든 코드가 들어가 있어 엉망이지만 기록하기 위해 올립니다.😂)
 
 <br/>
 
